@@ -102,8 +102,7 @@ while prosseguir is True :
     opcao = int(input(menu))
     
     if opcao == 1:
-        print('''
-        ===================== DEPÓSITO =====================''')
+       
         valor = float(input('''
         - Informe o valor do depósito: '''))
 
