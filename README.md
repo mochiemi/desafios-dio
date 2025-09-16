@@ -1,6 +1,7 @@
 # Projetos e desafios - DIO 💻🖱️🖥️
 Repositório de projetos dos desafios propostos no curso de Python do bootcamp Dio/Suzano 2025
 
+[Link DIO](https://www.dio.me/users/tiemi_suyama)
 ## Lista de Projetos 
 | Link         | Descrição                           |
 | :----------  | :---------------------------------- |
